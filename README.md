@@ -1,2 +1,2 @@
 # XPGivesHealth
-Player's max health is increased by their level.
+A player's max health is increased by their level.
