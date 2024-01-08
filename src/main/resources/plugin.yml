@@ -1,0 +1,5 @@
+name: XPGivesHealth
+version: '${project.version}'
+main: me.meep_xd.xpgiveshealth.XPGivesHealth
+api-version: '1.20'
+author: Meep_XD
